@@ -1,0 +1,2 @@
+curl -i -X POST -H "Content-Type: application/json" -d "{\"numbers\":[{\"number\":\"4000\",\"type\":\"Decimal\"},{\"number\":\"321\",\"type\":\"Decimal\"},{\"number\":\"101000001\",\"type\":\"Binary\"},{\"number\":\"111110100000\",\"type\":\"Binary\"}]}" http://localhost:8080/convert/
+pause

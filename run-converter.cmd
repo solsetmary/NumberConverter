@@ -1,0 +1,1 @@
+java -jar target/NumberConverter-0.0.1.jar
